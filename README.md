@@ -16,3 +16,12 @@ Here are some ideas to get you started:
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=utzuro&theme=synthwave&hide=html,css,scss)
 ![utzuro github stats](https://github-readme-stats.vercel.app/api?username=utzuro&theme=synthwave&show_icons=true&count_private=true)
 -->
+
+<p align="center">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img align="center" src="https://raw.githubusercontent.com/utzuro/k-omotani/main/profile-summary-card-output/dracula/0-profile-details.svg" alt="utzuro's github content" />
+  </a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=utzuro&theme=dracula&no-frame=true&column=4" alt="utzuro's github content" />
+  </a>
+</p>
