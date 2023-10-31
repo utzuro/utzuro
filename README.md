@@ -18,9 +18,10 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img align="center" src="https://raw.githubusercontent.com/utzuro/utzuro/main/profile-summary-card-output/dracula/0-profile-details.svg" alt="utzuro's github content" />
-  </a>
+<!--   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"> -->
+<!--     <img align="center" src="https://raw.githubusercontent.com/utzuro/k-omotani/main/profile-summary-card-output/dracula/0-profile-details.svg" alt="utzuro's github content" /> -->
+<!--   </a> -->
+
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img align="center" src="https://github-profile-trophy.vercel.app/?username=utzuro&theme=dracula&no-frame=true&column=4" alt="utzuro's github content" />
   </a>
