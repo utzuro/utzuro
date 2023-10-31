@@ -13,5 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=utzuro&theme=synthwave&hide=html,css,scss)
-![uh-zz's github stats](https://github-readme-stats.vercel.app/api?username=utzuro&theme=synthwave&show_icons=true&count_private=true)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=utzuro&theme=synthwave&hide=html,css,scss)
+![utzuro github stats](https://github-readme-stats.vercel.app/api?username=utzuro&theme=synthwave&show_icons=true&count_private=true)
+-->
